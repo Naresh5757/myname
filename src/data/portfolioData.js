@@ -1,4 +1,4 @@
-import profilePhoto from '../assets/WhatsApp Image 2025-11-04 at 18.00.55_566730df.jpg';
+import profilePhoto from '../assets/profile.jpg';
 
 export const personalInfo = {
   name: "Begari Naresh",
