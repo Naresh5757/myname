@@ -1,3 +1,5 @@
+import profilePhoto from '../assets/WhatsApp Image 2025-11-04 at 18.00.55_566730df.jpg';
+
 export const personalInfo = {
   name: "Begari Naresh",
   title: "Full-Stack Developer",
@@ -7,7 +9,7 @@ export const personalInfo = {
   location: "Hyderabad, India",
   github: "https://github.com/Naresh5757",
   linkedin: "https://www.linkedin.com/in/naresh-begari-902577375/",
-  photo: "/src/assets/WhatsApp Image 2025-11-04 at 18.00.55_566730df.jpg",
+  photo: profilePhoto,
 };
 
 export const about = `Detail-oriented and motivated full-stack developer with a solid foundation in both frontend and backend development. Proficient in JavaScript (ES6+), HTML5, CSS3, and responsive web design, with hands-on experience building dynamic, user-centric applications using React.js and Express.js. Skilled in creating scalable APIs with Node.js and managing databases with Firebase (Realtime & Firestore) and MongoDB. Seeking a full-stack development role to contribute to innovative projects, deliver seamless user experiences, and continuously grow in modern web technologies.`;
